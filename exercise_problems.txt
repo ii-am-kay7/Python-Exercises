@@ -1,0 +1,20 @@
+- Ex1. FizzBuzz (function must return a list of the solution e.g n=5 ---> ["1", "2", "fizz", "4", "buzz"])
+
+   if number is divisible by 3 then it must be replaced with "fizz"
+   if number is divisble by 5 then it must be replaced with "buzz"
+   if number is divisible by 3 and 5 then it must be replaced with "fizzbuzz"
+
+- Ex2. Leap Year checker (function must return a boolean)
+
+	To determine whether a year is a leap year, follow these steps:
+
+    	If the year is evenly divisible by 4, go to step 2. Otherwise, go to step 5.
+    	If the year is evenly divisible by 100, go to step 3. Otherwise, go to step 4.
+    	If the year is evenly divisible by 400, go to step 4. Otherwise, go to step 5.
+    	The year is a leap year (it has 366 days).
+  	The year is not a leap year (it has 365 days).
+
+- Ex3. Write a program that arranges three numbers in ascending order without using max or min or sort functions incl. sets 
+(function must return a string like this ----> "minNumber middleNumber maxNumber")
+
+- Ex4. write a program with a function that takes in a number and returns that number in reverse wthout using built-in sort functions (eg. 19 ---> 91)
